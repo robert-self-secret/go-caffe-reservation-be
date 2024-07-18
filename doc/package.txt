@@ -1,0 +1,5 @@
+fiber : go get github.com/gofiber/fiber/v2
+uuid : go get github.com/google/uuid
+gorm : go get -u gorm.io/gorm gorm.io/driver/mysql
+redis : go get github.com/redis/go-redis/v9
+dotEnv : go get github.com/joho/godotenv
